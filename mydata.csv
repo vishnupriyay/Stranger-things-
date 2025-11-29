@@ -1,0 +1,16 @@
+character,Age,Screen_time,Role_type,Danger_exposure,Arc_completion,Dies_s5
+Joyce Byers,41,304,Main,2.0,3,?
+Mike Wheeler,16,341,Main,0.5,3,?
+Dustin Henderson,16,322,Main,1.3,3,?
+Nancy Wheeler,19,360,Main,2.0,4,?
+Steve Harrington,20,296,Main,3.0,4,?
+Max Mayfield,16,315,Main,4.0,5,?
+Hopper,46,378,Main,2.5,3,?
+Eleven,16,487,Main,4.0,2,?
+Lucas Sinclair,16,330,Side,2.0,4,?
+Jonathan,19,216,Main,1.5,3,?
+Will,16,291,Side,3.5,5,?
+Robin Buckly,19,89,Side,1.5,1,?
+Murray Bauman,12,50,Side,2.0,1,?
+Erica Sinclair,45,54,Side,0.5,1,?
+Karen Wheeler,40,24,Side,0.5,1,?
